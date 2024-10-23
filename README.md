@@ -32,3 +32,21 @@ The model leverages:
 1. Clone the repository:
    ```bash
    git clone https://github.com/Milouden/causal-sentiment-classification.git
+
+
+
+
+
+
+## Citation
+Please cite the following paper if you use this code in your work:
+
+```bibtex
+@article{Milouden2024,
+  title={Discovering Causal Relationships in Noisy Web Data for Sentiment Classification Using Attention Mechanisms},
+  author={Your Name},
+  journal={Journal Name},
+  year={2024},
+  volume={XX},
+  pages={XX-XX}
+}
