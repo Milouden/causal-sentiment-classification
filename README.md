@@ -19,7 +19,7 @@ This project implements a novel deep learning approach for discovering causal re
 - Outperforms traditional models like Logistic Regression, SVM, and Random Forest.
 
 ## Data
-The model is trained and validated on the [Sentiment140 dataset](http://help.sentiment140.com/for-students).
+The model is trained and validated on the [Sentiment140 dataset](https://www.tensorflow.org/datasets/catalog/sentiment140?hl=fr).
 
 ## Model Architecture
 The model leverages:
