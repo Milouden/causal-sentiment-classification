@@ -44,11 +44,11 @@ Please cite the following paper if you use this code in your work:
 ```bibtex
 @article{Milouden2024,
   title={Discovering Causal Relationships in Noisy Web Data for Sentiment Classification Using Attention Mechanisms},
-  author={Your Name},
-  journal={Journal Name},
-  year={2024},
-  volume={XX},
-  pages={XX-XX}
+  author={Miloud Mihoubi, Meriem ZERKOUK , Belkacem CHIKHAOUI},
+  journal={Web Information Systems Engineering – WISE 2024 PhD Symposium},
+  year={2025},
+  volume={2024},
+  pages={pp 357–377}
 }
 
 
