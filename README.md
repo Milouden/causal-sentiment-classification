@@ -48,7 +48,7 @@ Please cite the following paper if you use this code in your work:
   journal={Web Information Systems Engineering – WISE 2024 PhD Symposium},
   year={2025},
   volume={2024},
-  pages={pp 357–377}
+  pages={357–377}
 }
 
 
